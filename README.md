@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-tailwindcss-1ERKni7whr)
-- Live Site URL: [Github Pages](https://viphakorn.github.io/fem-stats-preview-card/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G/)
+- Live Site URL: [Github Pages](https://viphakorn.github.io/fem-shortly-url/)
 
 ## My process
 
